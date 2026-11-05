@@ -1,0 +1,20 @@
+# Firmware
+*.hex
+*.bin
+*.elf
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.venv/
+venv/
+env/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
